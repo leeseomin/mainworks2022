@@ -28,7 +28,7 @@
  
   ### Face 7
 
- <img src="https://github.com/leeseomin/pixelart/blob/main/art/face7.png" width="65%"> 
+ <img src="https://github.com/leeseomin/pixelart/blob/main/art/face7.png" width="60%"> 
 
  <br/><br/>
  
