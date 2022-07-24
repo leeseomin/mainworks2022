@@ -26,6 +26,15 @@
  
  
  
+  ### Face 7
+
+ <img src=" https://github.com/leeseomin/pixelart/blob/main/art/face7.png" width="70%"> 
+
+ <br/><br/>
+ 
+
+ 
+ 
  ### Timaeus 32
 
  <img src="https://github.com/leeseomin/timaeus/blob/main/art/32h.png" width="80%"> 
