@@ -26,7 +26,11 @@
  
  
  
+ ### Timaeus 32
 
+ <img src="https://github.com/leeseomin/timaeus/blob/main/art/32h.png" width="80%"> 
+
+ <br/><br/>
  
  
 
