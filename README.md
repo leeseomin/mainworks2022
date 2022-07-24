@@ -18,13 +18,13 @@
  
 ### Untitled 62
 
- <img src="https://github.com/leeseomin/Abstract3/blob/main/art/Untitled62.png" width="90%"> 
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled62.png" width="90%"> 
  
  <br/><br/>
 
 ### Untitled 70
 
- <img src="https://github.com/leeseomin/Abstract3/blob/main/art/Untitled70.png" width="90%"> 
+ <img src="https://github.com/leeseomin/Abstract/blob/main/art/Untitled70.png" width="90%"> 
  
  <br/><br/>
  
