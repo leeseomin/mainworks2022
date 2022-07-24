@@ -42,3 +42,11 @@
  
  
  <br/><br/>
+
+
+### Look At 16 : suffering
+
+ <img src="https://github.com/leeseomin/look_at/blob/main/ART/look16h.png" width="90%"> 
+ 
+ 
+ <br/><br/>
