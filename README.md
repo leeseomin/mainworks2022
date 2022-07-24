@@ -28,7 +28,7 @@
  
  <br/><br/>
  
-### Untitled 102
+### Untitled 102 (red variation), 2022
 
  <img src="https://github.com/leeseomin/Abstract3/blob/main/art/Untitled102.png" width="90%"> 
  
