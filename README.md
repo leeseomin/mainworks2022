@@ -5,9 +5,30 @@
 ### Untitled 112
 
  <img src="https://github.com/leeseomin/Abstract3/blob/main/art/Untitled112.png" width="90%"> 
- 
- 
+
  <br/><br/>
+ 
+ 
+ 
+### Mosque-Cathedral of Córdoba
+
+ <img src="https://github.com/leeseomin/pixelart/blob/main/35kcordoba_can.png" width="90%"> 
+
+ <br/><br/>
+ 
+ 
+ 
+ ### At a certain cafe
+
+ <img src="https://github.com/leeseomin/pixelart/blob/main/IMG_3273.jpeg" width="70%"> 
+
+ <br/><br/>
+ 
+ 
+ 
+
+ 
+ 
 
 ### Untitled 114
 
