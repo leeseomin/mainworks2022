@@ -96,8 +96,6 @@
  
  LEE SEOMIN 
  
-
-  <br/>  <br/> 
  
  https://linktr.ee/techne_0_1
    <br/> 
