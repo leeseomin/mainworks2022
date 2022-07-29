@@ -1,5 +1,9 @@
 # Main artworks in 2021~2022 by LEE SEOMIN 
 
+ ### :o: Digital Artist
+  
+ ### :o: AI Abstract Artist
+
  <br/><br/>
 
 ### Untitled 112
@@ -92,9 +96,6 @@
  
  LEE SEOMIN 
  
- ### :o: Digital Artist
-  
- ### :o: AI Abstract Artist
 
   <br/>  <br/> 
  
