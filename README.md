@@ -90,7 +90,13 @@
  
  ### Author and Creator
  
- LEE SEOMIN
+ LEE SEOMIN 
+ 
+ ### :o: Digital Artist
+  
+ ### :o: AI Abstract Artist
+
+  <br/>  <br/> 
  
  https://linktr.ee/techne_0_1
    <br/> 
