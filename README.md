@@ -14,7 +14,7 @@
  
 ### Untitled 130 : obsession
 
- <img src="https://github.com/leeseomin/Abstract3/blob/main/art/Untitled130.png" width="80%"> 
+ <img src="https://github.com/leeseomin/Abstract3/blob/main/art/Untitled130.png" width="70%"> 
 
  <br/><br/> 
  
