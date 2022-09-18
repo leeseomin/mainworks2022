@@ -21,7 +21,7 @@
 
 ### Untitled 133
 
- <img src="https://github.com/leeseomin/Abstract3/blob/main/art/Untitled133.png" width="80%"> 
+ <img src="https://github.com/leeseomin/Abstract3/blob/main/art/Untitled133.png" width="90%"> 
 
  <br/><br/>
  
