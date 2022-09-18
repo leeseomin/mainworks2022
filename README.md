@@ -12,6 +12,14 @@
 
  <br/><br/>
  
+### Untitled 126
+
+ <img src="https://github.com/leeseomin/Abstract3/blob/main/art/Untitled126.png" width="80%"> 
+
+ <br/><br/> 
+ 
+ 
+ 
 ### Untitled 130 : obsession
 
  <img src="https://github.com/leeseomin/Abstract3/blob/main/art/Untitled130.png" width="80%"> 
